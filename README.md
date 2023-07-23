@@ -9,3 +9,8 @@ With this python app you can list your income and expenditures.
 ## Requrements
 - colorama
 - pyfiglet
+
+## Platforms
+- Linux
+- Windows
+- Mac
