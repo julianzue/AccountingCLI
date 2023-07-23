@@ -13,4 +13,4 @@ With this python app you can list your income and expenditures.
 ## Platforms
 - Linux
 - Windows
-- Mac
+- Mac OS
